@@ -124,8 +124,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.idea/
-generators/
-resources/
-sources/
-templates/
